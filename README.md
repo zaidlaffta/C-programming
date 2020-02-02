@@ -1,2 +1,2 @@
 # C-programming
-Create a program in C that read in name, age and phone number then print them out. 
+Find the biggest number of two variables 
